@@ -2,9 +2,9 @@
 
 ### I build consumer products that make complex technology feel simple.
 
-I’ve spent 15+ years building products across Apple, Tesla, Cash App, Coinbase, and Nubank.
+I’ve spent 15+ years building products across Apple Pay, Tesla, Cash App, Coinbase, and Nubank.
 
-Today, I’m focused on the next computing platform: **AI agents**.
+Today, I’m focused on the next consumer platform: **AI agents**.
 
 <p>
   <a href="https://www.michaelrihani.com">Website</a> •
@@ -14,9 +14,9 @@ Today, I’m focused on the next computing platform: **AI agents**.
 
 ---
 
-## What I Believe
+## Thesis
 
-AI agents will fundamentally change how people:
+AI agents will change how people:
 
 - Shop
 - Work
@@ -24,29 +24,29 @@ AI agents will fundamentally change how people:
 
 The best products won’t feel like software.
 
-They’ll feel like trusted extensions of our own judgment, memory, and agency.
+They’ll feel like trusted extensions of our judgment, memory, and agency.
 
 ---
 
 ## Current Focus
 
-I’m building a personal AI operating system to explore what consumer software looks like in an agent-first world.
+I’m building and studying AI-native consumer experiences across three areas:
 
 ### 🤖 Agents
 
-OpenClaw, Hermes, Claude Code, Codex, multi-agent workflows, and long-running loops.
+Personal agents, autonomous workflows, multi-agent systems, and long-running loops.
 
 ### 🧠 Memory
 
-Obsidian, QMD, personal knowledge systems, context, identity, and long-term memory.
+Context, personalization, identity, knowledge systems, and long-term memory.
 
 ### 🛒 Commerce
 
-Agentic shopping, payments, financial automation, and trusted consumer decision-making.
+Agentic shopping, payments, financial automation, and trusted decision-making.
 
 ---
 
-## Building Now
+## Building
 
 ### 🚶 Two Day Club
 
@@ -85,27 +85,15 @@ The experience should remain.
 I’ve built through three platform shifts:
 
 - Mobile payments
-- Bitcoin and digital assets
+- Bitcoin and stablecoins
 - AI-native software
 
 The common thread is human agency: helping people make better decisions, move faster, and feel more capable.
 
 ---
 
-## Now
-
-Reading: **Co-Intelligence**, **The Nvidia Way**, **Designing Machine Learning Systems**
-
-Building: **Personal AI OS**, **Two Day Club**, **P.S.**
-
-Learning: **Agentic commerce**, **computer use**, **OpenAI SDK**
-
----
-
 <div align="center">
 
-## The future I care about is simple:
-
-### Technology that knows you, works for you, and makes you more free.
+### I’m building toward a future where technology knows you, works for you, and makes you more free.
 
 </div>

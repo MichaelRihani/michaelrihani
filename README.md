@@ -60,13 +60,9 @@ An AI-powered greeting card company that personalizes, prints, and mails beautif
 
 [ps.app](https://ps.app)
 
-### 🤖 Personal AI OS
-
-An experimental AI-native operating system for memory, planning, shopping, coding, automation, and voice.
-
 ### 🛒 Toppp
 
-An AI-assisted shopping answer engine that helps people find the top 3 best products: budget, best for most people, and premium.
+The top 3 products for anything: budget, most people, and premium.
 
 [toppp-shop.vercel.app](https://toppp-shop.vercel.app)
 

@@ -62,7 +62,7 @@ An AI-powered greeting card company that personalizes, prints, and mails beautif
 
 ### 🛒 Toppp
 
-The top 3 products for anything: budget, most people, and premium.
+A faster way to buy the right thing: the top 3 picks for any product, from budget to premium.
 
 [toppp-shop.vercel.app](https://toppp-shop.vercel.app)
 

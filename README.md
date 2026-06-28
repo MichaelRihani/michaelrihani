@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi, I'm Michael 👋
 
 ### I build consumer products that make complex technology feel simple.
@@ -13,8 +11,6 @@ Today, I’m focused on the next computing platform: **AI agents**.
   <a href="https://www.linkedin.com/in/michaelrihani">LinkedIn</a> •
   <a href="https://x.com/MichaelRihani">X</a>
 </p>
-
-</div>
 
 ---
 

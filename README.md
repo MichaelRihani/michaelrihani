@@ -64,19 +64,21 @@ An AI-powered greeting card company that personalizes, prints, and mails beautif
 
 An experimental AI-native operating system for memory, planning, shopping, coding, automation, and voice.
 
+### 🛒 Toppp
+
+An AI-assisted shopping answer engine that helps people find the top 3 best products: budget, best for most people, and premium.
+
+[toppp-shop.vercel.app](https://toppp-shop.vercel.app)
+
 ---
 
 ## Principles
 
 I care about products that:
 
-- Feel magical instead of technical
-- Reduce friction instead of adding features
-- Scale globally without losing humanity
-
-Technology should disappear.
-
-The experience should remain.
+- Feel magical (instead of technical)
+- Reduce complexity (instead of adding features)
+- Scale globally (without losing humanity)
 
 ---
 

@@ -68,7 +68,7 @@ An AI-powered greeting card company that personalizes, prints, and mails beautif
 
 A faster way to buy the right thing: the top 3 picks for any product, from budget to premium.
 
-[toppp-shop.vercel.app](https://toppp-shop.vercel.app)
+[toppp.shop](https://toppp.shop)
 
 ---
 

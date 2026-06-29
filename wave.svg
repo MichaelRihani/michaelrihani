@@ -22,7 +22,7 @@
           width: 718px;
           height: 478px;
           overflow: hidden;
-          border: 1px solid #777777;
+          border: 1px solid #d0d7de;
           background: #ffffff;
         }
 

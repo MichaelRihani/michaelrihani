@@ -1,4 +1,8 @@
-# Hi, I'm Michael 👋
+# Hi, I'm Michael
+
+<div align="center">
+  <img src="wave.svg" width="720" height="480" alt="Waving hand bouncing around a box">
+</div>
 
 ### I build consumer products that make complex technology feel simple.
 

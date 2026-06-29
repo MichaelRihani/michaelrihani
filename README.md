@@ -68,6 +68,17 @@ A faster way to buy the right thing: the top 3 picks for any product, from budge
 
 ---
 
+## Repos
+
+Current public work includes:
+
+- [TwoDayClub](https://github.com/MichaelRihani/TwoDayClub) - public website for Two Day Club
+- [toppp-shop](https://github.com/MichaelRihani/toppp-shop) - trusted shopping and product recommendation research
+- [personal-ai-os](https://github.com/MichaelRihani/personal-ai-os) - experiments across memory, planning, automation, shopping, coding, and voice
+- [bitcoin-101](https://github.com/MichaelRihani/bitcoin-101) - clear Bitcoin lessons and curated resources
+
+---
+
 ## Principles
 
 I care about products that:

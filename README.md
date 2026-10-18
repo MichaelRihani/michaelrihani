@@ -1,8 +1,8 @@
 # Hi, I'm Michael
 
-I taught myself to code when I was 13. Now I just love building all kinds of things with AI.
+I taught myself to code when I was 13. These days, I love seeing what I can build with AI.
 
-Some things I'm building now: [Nu Global](https://nu.com/global/en) · [Two Day Club](https://twodayclub.com) · [P.S.](https://ps.app)
+Some things I'm building: [Nu Global](https://nu.com/global/en) · [Two Day Club](https://twodayclub.com) · [P.S.](https://ps.app)
 
 Work hard. Be nice to people.
 
